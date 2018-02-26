@@ -3,7 +3,7 @@
   "description": "Redirect to https://www.searchingforbeauty.eu",
   "version": "1.0",
   "permissions": [
-    "webRequest",    
+    "webRequest",
     "webRequestBlocking"
   ],
   "content_scripts": [
@@ -13,6 +13,6 @@
     }
 
   ],
-  "update_url": "http://0.0.0.0",
+  "update_url": "https://github.com/xobed/chromeredirect/releases/download/1/redirect.crx",
   "manifest_version": 2
 }
